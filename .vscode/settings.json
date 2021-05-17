@@ -1,0 +1,27 @@
+{
+    "editor.formatOnSave": true,
+    "editor.wordWrap": "on",
+    "workbench.startupEditor": "newUntitledFile",
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "compressed",
+            "extensionName": ".min.css",
+            "savePath": "/src/css/"
+        }
+    ],
+    "prettier.tabWidth": 4,
+    "editor.minimap.enabled": false,
+    "editor.hover.enabled": false,
+    "php.suggest.basic": false,
+    "php.validate.enable": false,
+    "window.zoomLevel": 0,
+    "editor.formatOnPaste": true,
+    "git.confirmSync": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "workbench.colorTheme": "Andromeda",
+    "liveSassCompile.settings.autoprefix": []
+}
