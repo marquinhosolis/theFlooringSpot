@@ -13,3 +13,5 @@ npm install
 ```bash
 gulp server
 ```
+
+to compile Sass files in dev environment use vscode extension: <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass"> Live Sass Compiler</a>
